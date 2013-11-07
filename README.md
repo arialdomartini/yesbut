@@ -3,7 +3,7 @@ yesbut
 
 yesbut is an amazing tool for the Always Happy Program Manager: it helps you getting rid of the annoying requests by your developers.
 
-yesbut uses a cutting-edge algorithm able to always find the most relevant and successful response.
+yesbut uses a cutting-edge algorithm able to always find the most relevant and successful response, no matter what those unbearable nerds ask you, yelling they want to improve their life, the product or the Company's ecosystem.
 
 
 ![alt tag](https://raw.github.com/arialdomartini/yesbut/gh-pages/images/one.png)
