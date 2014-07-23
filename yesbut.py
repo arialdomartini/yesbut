@@ -7,6 +7,8 @@ excuses = [ "we have no time",
             "we should schedule a meeting to discuss this, first",
             "it's not our business core",
             "we must request a formal approval to the Steering Committee",
+            "it's scheduled for the next sprint",
+            "you should first open a Jira Ticket with this request",
 
 ]
 
